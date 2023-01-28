@@ -1,6 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuddle6091&count_bg=%23196B98&title_bg=%23A3BEFA&icon=electron.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)              
-
-👨‍🎓 [이상원 (https://github.com/buddle6091)](https://github.com/buddle6091) </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuddle6091&count_bg=%23000000&title_bg=%23413F3F&icon=github.svg&icon_color=%23E7E7E7&title=Github+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddle6091&show_icons=true)
 
