@@ -4,12 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddle6091&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddle6091)](https://github.com/buddle6091/github-readme-stats)
 
-👋 Hi, I’m @buddle6091
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 - Sorry for do not filled this page. If you wanna figure out me, plz follow this link! [First project`s readme](https://github.com/buddle6091/John-I-gotta-go) 
 
