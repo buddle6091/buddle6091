@@ -24,5 +24,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddle6091)](https://github.com/buddle6091/github-readme-stats)
 
-
-- Sorry for do not filled this page. If you wanna figure out me, plz follow this link! [First project`s readme](https://github.com/buddle6091/John-I-gotta-go) 
