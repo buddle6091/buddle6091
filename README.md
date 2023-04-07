@@ -24,3 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddle6091)](https://github.com/buddle6091/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=buddle6091&tag=lighthouse&color=dark)](https://github.com/buddle6091/velog-readme-stats)
+
