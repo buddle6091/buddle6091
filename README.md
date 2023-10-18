@@ -3,7 +3,7 @@
 
 <!-- 한 줄 소개 -->
 ### <div align=center>"경험을 가장 중요하게 여기며 새로운 자극을 좋아합니다"</div>
-<br/>
+
 
 ## 🛠️ Stacks
 
@@ -24,6 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddle6091)](https://github.com/buddle6091/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=buddle6091&tag=lighthouse&color=dark)](https://velog.io/@buddle6091/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-4.-LightHouse-%EC%A7%84%EB%8B%A8%ED%95%B4%EC%84%9C-%EB%82%98%EC%98%A8-%EB%AC%B8%EC%A0%9C%EC%A0%90-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+### [💚 더 자세한 이야기는 블로그에 기록해두었어요!](https://velog.io/@buddle6091)
 
 
