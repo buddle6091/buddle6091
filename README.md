@@ -24,6 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddle6091)](https://github.com/buddle6091/github-readme-stats)
 
+![해커톤 상장](https://github.com/buddle6091/buddle6091/assets/83018778/ba42495f-9ea9-40d7-b64d-b1661265067c)
+
 ### [💚 더 자세한 이야기는 블로그에 기록해두었어요!](https://velog.io/@buddle6091)
 
 
